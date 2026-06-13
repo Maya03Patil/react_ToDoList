@@ -1,6 +1,6 @@
 {
   "framework": "create-react-app",
-  "outputDirectory": "build",
+  "outputDirectory": "dist",
   "headers": [
     {
       "source": "/(.*)",
